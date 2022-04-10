@@ -45,3 +45,5 @@ regards, Peter
 
 * Error OpenCV:
 https://automaticaddison.com/how-to-install-opencv-4-5-on-nvidia-jetson-nano/
+
+https://github.com/IvLabs/person_following_bot?fbclid=IwAR3cvmpbaTkgZKjTxgstlDL0N1PT_n1P6cVsoJRGfY5ksv0VZFN2CClCeM0
